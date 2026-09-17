@@ -2,9 +2,9 @@
   "name": "my-express-app",
   "version": "1.0.0",
   "description": "A basic Node.js application using Express",
-  "main": "index.js",
+  "main": "server.js",
   "scripts": {
-    "start": "node index.js"
+    "start": "node server.js"
   },
   "keywords": [],
   "author": "",
